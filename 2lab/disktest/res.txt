@@ -1,0 +1,395 @@
+Flexible IO Tester 3.1:
+    pts/fio-1.11.2 [Type: Random Read - IO Engine: Linux AIO - Buffered: Yes - Direct: Yes - Block Size: 1MB - Disk Target: Default Test Directory]
+    Test 1 of 10
+    Estimated Trial Run Count:    3
+    Estimated Test Run-Time:      6 Minutes
+    Estimated Time To Completion: 57 Minutes [16:16 UTC]
+        Running Pre-Test Script @ 15:20:48
+        Started Run 1 @ 15:20:48
+        Running Interim Test Script @ 15:21:33
+        Started Run 2 @ 15:21:33
+        Running Interim Test Script @ 15:22:04
+        Started Run 3 @ 15:22:04
+        Running Interim Test Script @ 15:22:35
+        Started Run 4 @ 15:22:35 *
+        Running Interim Test Script @ 15:23:07
+        Started Run 5 @ 15:23:07 *
+        Running Interim Test Script @ 15:23:38
+        Started Run 6 @ 15:23:38 *
+        Running Interim Test Script @ 15:24:10
+        Started Run 7 @ 15:24:10 *
+        Running Interim Test Script @ 15:24:41
+        Started Run 8 @ 15:24:41 *
+        Running Interim Test Script @ 15:25:13
+        Started Run 9 @ 15:25:13 *
+        Running Interim Test Script @ 15:25:44
+        Started Run 10 @ 15:25:44 *
+        Running Interim Test Script @ 15:26:16
+        Started Run 11 @ 15:26:16 *
+        Running Interim Test Script @ 15:26:47
+        Started Run 12 @ 15:26:47 *
+        Running Post-Test Script @ 15:27:19
+
+    Type: Random Read - IO Engine: Linux AIO - Buffered: Yes - Direct: Yes - Block Size: 1MB - Disk Target: Default Test Directory:
+        1760
+        1692
+        1269
+        1386
+        1574
+        1507
+        1670
+        1382
+        1257
+        1579
+        1721
+        1814
+
+    Average: 1551 MB/s
+    Deviation: 12.31%
+
+
+Flexible IO Tester 3.1:
+    pts/fio-1.11.2 [Type: Random Read - IO Engine: Linux AIO - Buffered: Yes - Direct: Yes - Block Size: 4KB - Disk Target: Default Test Directory]
+    Test 2 of 10
+    Estimated Trial Run Count:    3
+    Estimated Test Run-Time:      6 Minutes
+    Estimated Time To Completion: 51 Minutes [16:17 UTC]
+        Running Pre-Test Script @ 15:27:27
+        Started Run 1 @ 15:27:27
+        Running Interim Test Script @ 15:27:58
+        Started Run 2 @ 15:27:58
+        Running Interim Test Script @ 15:28:30
+        Started Run 3 @ 15:28:30
+        Running Post-Test Script @ 15:29:01
+
+    Type: Random Read - IO Engine: Linux AIO - Buffered: Yes - Direct: Yes - Block Size: 4KB - Disk Target: Default Test Directory:
+        0.609
+        0.608
+        0.616
+
+    Average: 0.61 MB/s
+    Deviation: 0.71%
+
+
+Flexible IO Tester 3.1:
+    pts/fio-1.11.2 [Type: Random Read - IO Engine: Linux AIO - Buffered: Yes - Direct: Yes - Block Size: 4MB - Disk Target: Default Test Directory]
+    Test 3 of 10
+    Estimated Trial Run Count:    3
+    Estimated Test Run-Time:      6 Minutes
+    Estimated Time To Completion: 45 Minutes [16:14 UTC]
+        Running Pre-Test Script @ 15:29:10
+        Started Run 1 @ 15:29:10
+        Running Interim Test Script @ 15:29:41
+        Started Run 2 @ 15:29:41
+        Running Interim Test Script @ 15:30:13
+        Started Run 3 @ 15:30:13
+        Running Interim Test Script @ 15:30:44
+        Started Run 4 @ 15:30:44 *
+        Running Interim Test Script @ 15:31:16
+        Started Run 5 @ 15:31:16 *
+        Running Interim Test Script @ 15:31:47
+        Started Run 6 @ 15:31:47 *
+        Running Interim Test Script @ 15:32:18
+        Started Run 7 @ 15:32:18 *
+        Running Interim Test Script @ 15:32:50
+        Started Run 8 @ 15:32:50 *
+        Running Interim Test Script @ 15:33:21
+        Started Run 9 @ 15:33:21 *
+        Running Post-Test Script @ 15:33:53
+
+    Type: Random Read - IO Engine: Linux AIO - Buffered: Yes - Direct: Yes - Block Size: 4MB - Disk Target: Default Test Directory:
+        3427
+        3658
+        3762
+        3872
+        3748
+        3858
+        3354
+        3434
+        2956
+
+    Average: 3563 MB/s
+    Deviation: 8.38%
+
+
+Flexible IO Tester 3.1:
+    pts/fio-1.11.2 [Type: Random Read - IO Engine: Linux AIO - Buffered: Yes - Direct: Yes - Block Size: 16KB - Disk Target: Default Test Directory]
+    Test 4 of 10
+    Estimated Trial Run Count:    3
+    Estimated Test Run-Time:      6 Minutes
+    Estimated Time To Completion: 40 Minutes [16:13 UTC]
+        Running Pre-Test Script @ 15:34:01
+        Started Run 1 @ 15:34:01
+        Running Interim Test Script @ 15:34:33
+        Started Run 2 @ 15:34:33
+        Running Interim Test Script @ 15:35:04
+        Started Run 3 @ 15:35:04
+        Running Post-Test Script @ 15:35:36
+
+    Type: Random Read - IO Engine: Linux AIO - Buffered: Yes - Direct: Yes - Block Size: 16KB - Disk Target: Default Test Directory:
+        2.444
+        2.479
+        2.558
+
+    Average: 2.49 MB/s
+    Deviation: 2.34%
+
+
+Flexible IO Tester 3.1:
+    pts/fio-1.11.2 [Type: Random Write - IO Engine: Linux AIO - Buffered: Yes - Direct: Yes - Block Size: 1MB - Disk Target: Default Test Directory]
+    Test 5 of 10
+    Estimated Trial Run Count:    3
+    Estimated Test Run-Time:      6 Minutes
+    Estimated Time To Completion: 34 Minutes [16:09 UTC]
+        Running Pre-Test Script @ 15:35:44
+        Started Run 1 @ 15:35:44
+        Running Interim Test Script @ 15:36:15
+        Started Run 2 @ 15:36:15
+        Running Interim Test Script @ 15:36:47
+        Started Run 3 @ 15:36:47
+        Running Interim Test Script @ 15:37:20
+        Started Run 4 @ 15:37:20 *
+        Running Interim Test Script @ 15:37:52
+        Started Run 5 @ 15:37:52 *
+        Running Interim Test Script @ 15:38:24
+        Started Run 6 @ 15:38:24 *
+        Running Interim Test Script @ 15:38:56
+        Started Run 7 @ 15:38:56 *
+        Running Interim Test Script @ 15:39:29
+        Started Run 8 @ 15:39:29 *
+        Running Interim Test Script @ 15:40:01
+        Started Run 9 @ 15:40:01 *
+        Running Interim Test Script @ 15:40:33
+        Started Run 10 @ 15:40:33 *
+        Running Interim Test Script @ 15:41:05
+        Started Run 11 @ 15:41:05 *
+        Running Post-Test Script @ 15:41:37
+
+    Type: Random Write - IO Engine: Linux AIO - Buffered: Yes - Direct: Yes - Block Size: 1MB - Disk Target: Default Test Directory:
+        139
+        171
+        179
+        172
+        168
+        180
+        167
+        169
+        174
+        170
+        172
+
+    Average: 169 MB/s
+    Deviation: 6.40%
+
+
+Flexible IO Tester 3.1:
+    pts/fio-1.11.2 [Type: Random Write - IO Engine: Linux AIO - Buffered: Yes - Direct: Yes - Block Size: 4KB - Disk Target: Default Test Directory]
+    Test 6 of 10
+    Estimated Trial Run Count:    3
+    Estimated Test Run-Time:      6 Minutes
+    Estimated Time To Completion: 29 Minutes [16:09 UTC]
+        Running Pre-Test Script @ 15:41:45
+        Started Run 1 @ 15:41:45
+        Running Interim Test Script @ 15:42:17
+        Started Run 2 @ 15:42:17
+        Running Interim Test Script @ 15:42:57
+        Started Run 3 @ 15:42:57
+        Running Post-Test Script @ 15:43:35
+
+    Type: Random Write - IO Engine: Linux AIO - Buffered: Yes - Direct: Yes - Block Size: 4KB - Disk Target: Default Test Directory:
+        248
+        250
+        261
+
+    Average: 253 MB/s
+    Deviation: 2.77%
+
+
+    Type: Random Write - IO Engine: Linux AIO - Buffered: Yes - Direct: Yes - Block Size: 4KB - Disk Target: Default Test Directory:
+        63400
+        64000
+        66700
+
+    Average: 64700 IOPS
+    Deviation: 2.72%
+
+
+Flexible IO Tester 3.1:
+    pts/fio-1.11.2 [Type: Random Write - IO Engine: Linux AIO - Buffered: Yes - Direct: Yes - Block Size: 4MB - Disk Target: Default Test Directory]
+    Test 7 of 10
+    Estimated Trial Run Count:    3
+    Estimated Test Run-Time:      6 Minutes
+    Estimated Time To Completion: 23 Minutes [16:06 UTC]
+        Running Pre-Test Script @ 15:43:44
+        Started Run 1 @ 15:43:44
+        Running Interim Test Script @ 15:44:17
+        Started Run 2 @ 15:44:17
+        Running Interim Test Script @ 15:44:48
+        Started Run 3 @ 15:44:48
+        Running Interim Test Script @ 15:45:21
+        Started Run 4 @ 15:45:21 *
+        Running Interim Test Script @ 15:45:53
+        Started Run 5 @ 15:45:53 *
+        Running Interim Test Script @ 15:46:26
+        Started Run 6 @ 15:46:26 *
+        Running Interim Test Script @ 15:46:58
+        Started Run 7 @ 15:46:58 *
+        Running Interim Test Script @ 15:47:30
+        Started Run 8 @ 15:47:30 *
+        Running Interim Test Script @ 15:48:02
+        Started Run 9 @ 15:48:02 *
+        Running Interim Test Script @ 15:48:34
+        Started Run 10 @ 15:48:34 *
+        Running Interim Test Script @ 15:49:06
+        Started Run 11 @ 15:49:06 *
+        Running Interim Test Script @ 15:49:39
+        Started Run 12 @ 15:49:39 *
+        Running Post-Test Script @ 15:50:10
+
+    Type: Random Write - IO Engine: Linux AIO - Buffered: Yes - Direct: Yes - Block Size: 4MB - Disk Target: Default Test Directory:
+        175
+        165
+        179
+        165
+        185
+        164
+        167
+        186
+        188
+        166
+        186
+        186
+
+    Average: 176 MB/s
+    Deviation: 5.69%
+
+
+Flexible IO Tester 3.1:
+    pts/fio-1.11.2 [Type: Random Read - IO Engine: Linux AIO - Buffered: Yes - Direct: Yes - Block Size: 256KB - Disk Target: Default Test Directory]
+    Test 8 of 10
+    Estimated Trial Run Count:    3
+    Estimated Test Run-Time:      6 Minutes
+    Estimated Time To Completion: 17 Minutes [16:07 UTC]
+        Running Pre-Test Script @ 15:50:21
+        Started Run 1 @ 15:50:21
+        Running Interim Test Script @ 15:50:54
+        Started Run 2 @ 15:50:54
+        Running Interim Test Script @ 15:51:25
+        Started Run 3 @ 15:51:25
+        Running Post-Test Script @ 15:51:57
+
+    Type: Random Read - IO Engine: Linux AIO - Buffered: Yes - Direct: Yes - Block Size: 256KB - Disk Target: Default Test Directory:
+        27.1
+        27.5
+        27.6
+
+    Average: 27.40 MB/s
+    Deviation: 0.97%
+
+
+Flexible IO Tester 3.1:
+    pts/fio-1.11.2 [Type: Random Write - IO Engine: Linux AIO - Buffered: Yes - Direct: Yes - Block Size: 16KB - Disk Target: Default Test Directory]
+    Test 9 of 10
+    Estimated Trial Run Count:    3
+    Estimated Test Run-Time:      6 Minutes
+    Estimated Time To Completion: 12 Minutes [16:03 UTC]
+        Running Pre-Test Script @ 15:52:05
+        Started Run 1 @ 15:52:05
+        Running Interim Test Script @ 15:52:36
+        Started Run 2 @ 15:52:36
+        Running Interim Test Script @ 15:53:14
+        Started Run 3 @ 15:53:14
+        Running Interim Test Script @ 15:53:51
+        Started Run 4 @ 15:53:51 *
+        Running Interim Test Script @ 15:54:27
+        Started Run 5 @ 15:54:27 *
+        Running Interim Test Script @ 15:55:04
+        Started Run 6 @ 15:55:04 *
+        Running Interim Test Script @ 15:55:40
+        Started Run 7 @ 15:55:40 *
+        Running Interim Test Script @ 15:56:17
+        Started Run 8 @ 15:56:17 *
+        Running Interim Test Script @ 15:56:52
+        Started Run 9 @ 15:56:52 *
+        Running Interim Test Script @ 15:57:29
+        Started Run 10 @ 15:57:29 *
+        Running Interim Test Script @ 15:58:04
+        Started Run 11 @ 15:58:04 *
+        Running Interim Test Script @ 15:58:41
+        Started Run 12 @ 15:58:41 *
+        Running Post-Test Script @ 15:59:17
+
+    Type: Random Write - IO Engine: Linux AIO - Buffered: Yes - Direct: Yes - Block Size: 16KB - Disk Target: Default Test Directory:
+        182
+        229
+        217
+        225
+        226
+        217
+        204
+        213
+        203
+        214
+        215
+        224
+
+    Average: 214 MB/s
+    Deviation: 6.07%
+
+
+    Type: Random Write - IO Engine: Linux AIO - Buffered: Yes - Direct: Yes - Block Size: 16KB - Disk Target: Default Test Directory:
+        11700
+        14700
+        13900
+        14400
+        14500
+        13900
+        13000
+        13600
+        13000
+        13700
+        13800
+        14400
+
+    Average: 13717 IOPS
+    Deviation: 6.10%
+
+
+Flexible IO Tester 3.1:
+    pts/fio-1.11.2 [Type: Random Write - IO Engine: Linux AIO - Buffered: Yes - Direct: Yes - Block Size: 256KB - Disk Target: Default Test Directory]
+    Test 10 of 10
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 6 Minutes [16:05 UTC]
+        Running Pre-Test Script @ 15:59:26
+        Started Run 1 @ 15:59:26
+        Running Interim Test Script @ 15:59:58
+        Started Run 2 @ 15:59:58
+        Running Interim Test Script @ 16:00:30
+        Started Run 3 @ 16:00:30
+        Running Interim Test Script @ 16:01:02
+        Started Run 4 @ 16:01:02 *
+        Running Interim Test Script @ 16:01:35
+        Started Run 5 @ 16:01:35 *
+        Running Interim Test Script @ 16:02:07
+        Started Run 6 @ 16:02:07 *
+        Running Interim Test Script @ 16:02:39
+        Started Run 7 @ 16:02:39 *
+        Running Interim Test Script @ 16:03:12
+        Started Run 8 @ 16:03:12 *
+        Running Interim Test Script @ 16:03:44
+        Started Run 9 @ 16:03:44 *
+        Running Post-Test Script @ 16:04:17
+
+    Type: Random Write - IO Engine: Linux AIO - Buffered: Yes - Direct: Yes - Block Size: 256KB - Disk Target: Default Test Directory:
+        178
+        194
+        164
+        184
+        244
+        223
+        246
+        226
+        264
+
+    Average: 214 MB/s
+    Deviation: 16.33%

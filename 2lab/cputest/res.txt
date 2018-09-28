@@ -1,0 +1,32 @@
+7-Zip Compression 16.02:
+    pts/compress-7zip-1.7.0
+    Test 1 of 1
+    Estimated Trial Run Count:    3
+    Estimated Time To Completion: 4 Minutes [15:11 UTC]
+        Started Run 1 @ 15:08:35
+        Started Run 2 @ 15:09:13
+        Started Run 3 @ 15:09:52
+
+    Compress Speed Test:
+        26503
+        26421
+        26438
+
+    Average: 26454 MIPS
+    Deviation: 0.16%
+
+    OpenBenchmarking.org Dynamic Comparison: 
+    MIPS > Higher Is Better
+    Clear Linux: E3-1280 v5 .......... 24087 |=========
+    Antergos: E3-1280 v5 ............. 24094 |=========
+    openSUSE: E3-1280 v5 ............. 25366 |=========
+    MyCPU ............................ 26454 |==========
+    Antergos: i7-8086K ............... 40969 |===============
+    openSUSE: i7-8086K ............... 41041 |===============
+    Clear Linux: i7-8086K ............ 41705 |===============
+    Antergos: Threadripper 2950X ..... 72371 |==========================
+    openSUSE: Threadripper 2950X ..... 78793 |=============================
+    Clear Linux: Threadripper 2950X .. 80176 |=============================
+    openSUSE: i9-7960X ............... 88776 |================================
+    Antergos: i9-7960X ............... 90413 |=================================
+    Clear Linux: i9-7960X ............ 93711 |==================================

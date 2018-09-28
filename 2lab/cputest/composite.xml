@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!--Phoronix Test Suite v8.2.0-->
+<PhoronixTestSuite>
+  <Generated>
+    <Title>cpu_test</Title>
+    <LastModified>2018-09-28 15:11:00</LastModified>
+    <TestClient>Phoronix Test Suite v8.2.0 (Rakkestad)</TestClient>
+    <Description>Intel Core i7-6700K testing with a Gigabyte Z170-HD3-CF (F6 BIOS) and amdgpudrmfb on Ubuntu 16.04 via the Phoronix Test Suite.</Description>
+  </Generated>
+  <System>
+    <Identifier>1</Identifier>
+    <Hardware>Processor: Intel Core i7-6700K @ 4.50GHz (4 Cores / 8 Threads), Motherboard: Gigabyte Z170-HD3-CF (F6 BIOS), Chipset: Intel Sky Lake, Memory: 8192MB, Disk: 120GB KINGSTON SUV400S + 1000GB Western Digital WD10EZEX-35W, Graphics: amdgpudrmfb, Audio: Realtek ALC887-VD, Monitor: Acer ET241Y, Network: Realtek RTL8111/8168/8411</Hardware>
+    <Software>OS: Ubuntu 16.04, Kernel: 4.13.0-43-generic (x86_64), Desktop: Unity 7.4.5, Display Server: X Server 1.19.5, Display Driver: modesetting 1.19.5, Compiler: GCC 5.4.0 20160609, File-System: ext4, Screen Resolution: 1920x1080</Software>
+    <User>dan</User>
+    <TimeStamp>2018-09-28 15:08:29</TimeStamp>
+    <TestClientVersion>8.2.0</TestClientVersion>
+    <Notes></Notes>
+    <JSON>{"compiler-configuration":"--build=x86_64-linux-gnu --disable-browser-plugin --disable-vtable-verify --disable-werror --enable-checking=release --enable-clocale=gnu --enable-gnu-unique-object --enable-gtk-cairo --enable-java-awt=gtk --enable-java-home --enable-languages=c,ada,c++,java,go,d,fortran,objc,obj-c++ --enable-libmpx --enable-libstdcxx-debug --enable-libstdcxx-time=yes --enable-multiarch --enable-multilib --enable-nls --enable-objc-gc --enable-plugin --enable-shared --enable-threads=posix --host=x86_64-linux-gnu --target=x86_64-linux-gnu --with-abi=m64 --with-arch-32=i686 --with-arch-directory=amd64 --with-default-libstdcxx-abi=new --with-multilib-list=m32,m64,mx32 --with-tune=generic -v","cpu-scaling-governor":"intel_pstate powersave","security":"KPTI + OSB (observable speculation barrier Intel v6) + Full generic retpoline IBPB (Intel v4)"}</JSON>
+  </System>
+  <Result>
+    <Identifier>pts/compress-7zip-1.7.0</Identifier>
+    <Title>7-Zip Compression</Title>
+    <AppVersion>16.02</AppVersion>
+    <Arguments></Arguments>
+    <Description>Compress Speed Test</Description>
+    <Scale>MIPS</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>1</Identifier>
+        <Value>26454</Value>
+        <RawString>26503:26421:26438</RawString>
+        <JSON>{"compiler-options":{"compiler-type":"CXX","compiler":"g++","compiler-options":"-pipe -lpthread"},"test-run-times":"37.31:37.29:36.92"}</JSON>
+      </Entry>
+    </Data>
+  </Result>
+</PhoronixTestSuite>
