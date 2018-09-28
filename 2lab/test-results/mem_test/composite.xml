@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<!--Phoronix Test Suite v8.2.0-->
+<PhoronixTestSuite>
+  <Generated>
+    <Title>test1</Title>
+    <LastModified>2018-09-28 15:01:44</LastModified>
+    <TestClient>Phoronix Test Suite v8.2.0 (Rakkestad)</TestClient>
+    <Description>Intel Core i7-6700K testing with a Gigabyte Z170-HD3-CF (F6 BIOS) and amdgpudrmfb on Ubuntu 16.04 via the Phoronix Test Suite.</Description>
+  </Generated>
+  <System>
+    <Identifier>14</Identifier>
+    <Hardware>Processor: Intel Core i7-6700K @ 4.50GHz (4 Cores / 8 Threads), Motherboard: Gigabyte Z170-HD3-CF (F6 BIOS), Chipset: Intel Sky Lake, Memory: 8192MB, Disk: 120GB KINGSTON SUV400S + 1000GB Western Digital WD10EZEX-35W, Graphics: amdgpudrmfb, Audio: Realtek ALC887-VD, Monitor: Acer ET241Y, Network: Realtek RTL8111/8168/8411</Hardware>
+    <Software>OS: Ubuntu 16.04, Kernel: 4.13.0-43-generic (x86_64), Desktop: Unity 7.4.5, Display Server: X Server 1.19.5, Display Driver: modesetting 1.19.5, Compiler: GCC 5.4.0 20160609, File-System: ext4, Screen Resolution: 1920x1080</Software>
+    <User>dan</User>
+    <TimeStamp>2018-09-28 14:26:05</TimeStamp>
+    <TestClientVersion>8.2.0</TestClientVersion>
+    <Notes></Notes>
+    <JSON>{"disk-scheduler":"CFQ","disk-mount-options":"data=ordered,errors=remount-ro,relatime,rw","cpu-scaling-governor":"intel_pstate powersave","python":"Python 2.7.12 + Python 3.5.2","security":"KPTI + OSB (observable speculation barrier Intel v6) + Full generic retpoline IBPB (Intel v4)"}</JSON>
+  </System>
+  <Result>
+    <Identifier>pts/compilebench-1.0.2</Identifier>
+    <Title>Compile Bench</Title>
+    <AppVersion>0.6</AppVersion>
+    <Arguments>COMPILE</Arguments>
+    <Description>Test: Compile</Description>
+    <Scale>MB/s</Scale>
+    <Proportion>HIB</Proportion>
+    <DisplayFormat>BAR_GRAPH</DisplayFormat>
+    <Data>
+      <Entry>
+        <Identifier>14</Identifier>
+        <Value>276</Value>
+        <RawString>323.07:281.23:225.77:325.52:291.04:161.91:290.5:282.78:298.96</RawString>
+        <JSON>{"test-run-times":"241.00:230.34:234.44:237.96:230.51:240.49:230.10:235.10:234.02"}</JSON>
+      </Entry>
+    </Data>
+  </Result>
+</PhoronixTestSuite>
